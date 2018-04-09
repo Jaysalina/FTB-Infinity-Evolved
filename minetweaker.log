@@ -1,0 +1,341 @@
+ERROR: system: AutoSpawner is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: 
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command railcraft
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
+INFO: Adding minetweaker command thermalexpansion
+INFO: Adding minetweaker command mfr
+INFO: tried to remove command: mfr failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: thermalexpansion failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: aspectList failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: research failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: materials failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: railcraft failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botania failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaOrechid failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconKnowledgeTypes failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaBrews failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconPages failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconCategories failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: appeng failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: minetweaker failed. THIS IS NOT AN ERROR!
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: Initializing 'InfinityPackWideChanges.zs'...
+INFO: Removing Flesh from ore dictionary entry blockMeatRaw
+INFO: Removing 1 recipes
+INFO: Adding recipe for Wired Modem
+INFO: Removing 1 recipes
+INFO: Adding recipe for Basic Belt Base
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Gold Trowel
+INFO: Adding recipe for Diamond Trowel
+INFO: Adding recipe for Stone Trowel
+INFO: Adding recipe for Iron Trowel
+INFO: Adding recipe for Wooden Trowel
+INFO: Adding recipe for Sanguine Scientiem
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Corn Grain
+INFO: Adding recipe for Barley Grain
+INFO: Adding recipe for Seeds
+INFO: Setting fuel for <ImmersiveEngineering:stoneDecoration:3>
+INFO: [ModTweaker2] Adding 1 Railcraft Blast Furnace (Fuel) Recipe(s) for <ImmersiveEngineering:material:6>
+INFO: [ModTweaker2] Adding 1 Railcraft Blast Furnace (Fuel) Recipe(s) for <ImmersiveEngineering:stoneDecoration:3>
+INFO: Removing 13 recipes
+INFO: Adding recipe for Minecart
+INFO: Copying contents of ore dictionary entry dustQuartz to dustNetherQuartz
+INFO: Mirroring dustNetherQuartz to dustQuartz
+INFO: Mirroring stickWood to stickCrop
+INFO: Removing Bamboo from ore dictionary entry stickCrop
+INFO: Removing 1 recipes
+INFO: Adding recipe for Crop Sticks
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:toughRod:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:toolRod:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:pickaxeHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:shovelHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:hatchetHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:swordBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:wideGuard:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:handGuard:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:crossbar:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:binding:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:frypanHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:signHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:knifeBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:chiselHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:toughBinding:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:heavyPlate:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:broadAxeHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:scytheBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:excavatorHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:largeSwordBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:hammerHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:fullGuard:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:ShurikenPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowLimbPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowBodyPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:BowLimbPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:arrowhead:314>
+INFO: Adding refinery recipe for minetweaker.mc1710.liquid.MCLiquidStack@46326f90
+INFO: Adding refinery recipe for minetweaker.mc1710.liquid.MCLiquidStack@42677dd3
+INFO: Removing 1 recipes
+INFO: Adding recipe for Button
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Railcraft:part.plate:2>
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Iron Nugget
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Iron Nugget
+INFO: [ModTweaker2] Adding 1 Forestry Centrifuge Recipe(s) for <gendustry:HoneyComb:13339>
+INFO: Initialized 'InfinityPackWideChanges.zs'
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: tried to remove command: thermalexpansion failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: aspectList failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: research failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: materials failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: railcraft failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botania failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaOrechid failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconKnowledgeTypes failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaBrews failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconPages failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconCategories failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: appeng failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: [ModTweaker2] Removing 1 Forestry Centrifuge Recipe(s) for <gendustry:HoneyComb:13339>
+INFO: [ModTweaker2] Reverting Aspects Recipe(s) changes for Iron Nugget
+INFO: [ModTweaker2] Reverting Aspects Recipe(s) changes for Iron Nugget
+INFO: [ModTweaker2] Removing 1 Railcraft Rolling Machine Recipe(s) for <Railcraft:part.plate:2>
+INFO: Removing recipe for Button
+INFO: Restoring 1 recipes
+INFO: Removing refinery recipe for minetweaker.mc1710.liquid.MCLiquidStack@42677dd3
+INFO: Removing refinery recipe for minetweaker.mc1710.liquid.MCLiquidStack@46326f90
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:arrowhead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:BowLimbPart:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowBodyPart:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowLimbPart:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:ShurikenPart:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:fullGuard:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:hammerHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:largeSwordBlade:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:excavatorHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:scytheBlade:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:broadAxeHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:heavyPlate:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:toughBinding:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:chiselHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:knifeBlade:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:signHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:frypanHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:binding:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:crossbar:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:handGuard:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:wideGuard:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:swordBlade:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:hatchetHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:shovelHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:pickaxeHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:toolRod:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:toughRod:314>
+INFO: Removing recipe for Crop Sticks
+INFO: Restoring 1 recipes
+INFO: Restoring Bamboo to ore dictionary entry stickCrop
+INFO: Undoing mirror of stickWood to stickCrop
+INFO: Undoing mirror of dustNetherQuartz to dustQuartz
+INFO: Removing contents of ore dictionary entry dustQuartz from dustNetherQuartz
+INFO: Removing recipe for Minecart
+INFO: Restoring 13 recipes
+INFO: [ModTweaker2] Removing 1 Railcraft Blast Furnace (Fuel) Recipe(s) for <ImmersiveEngineering:stoneDecoration:3>
+INFO: [ModTweaker2] Removing 1 Railcraft Blast Furnace (Fuel) Recipe(s) for <ImmersiveEngineering:material:6>
+INFO: Removing fuel for <ImmersiveEngineering:stoneDecoration:3>
+INFO: Removing recipe for Seeds
+INFO: Removing recipe for Barley Grain
+INFO: Removing recipe for Corn Grain
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Sanguine Scientiem
+INFO: Removing recipe for Wooden Trowel
+INFO: Removing recipe for Iron Trowel
+INFO: Removing recipe for Stone Trowel
+INFO: Removing recipe for Diamond Trowel
+INFO: Removing recipe for Gold Trowel
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Basic Belt Base
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Wired Modem
+INFO: Restoring 1 recipes
+INFO: Restoring Flesh to ore dictionary entry blockMeatRaw
+INFO: tried to remove command: mfr failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: thermalexpansion failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: aspectList failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: research failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: materials failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: railcraft failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botania failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaOrechid failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconKnowledgeTypes failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaBrews failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconPages failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconCategories failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: appeng failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: Initializing 'InfinityPackWideChanges.zs'...
+INFO: Removing Flesh from ore dictionary entry blockMeatRaw
+INFO: Removing 1 recipes
+INFO: Adding recipe for Wired Modem
+INFO: Removing 1 recipes
+INFO: Adding recipe for Basic Belt Base
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Gold Trowel
+INFO: Adding recipe for Diamond Trowel
+INFO: Adding recipe for Stone Trowel
+INFO: Adding recipe for Iron Trowel
+INFO: Adding recipe for Wooden Trowel
+INFO: Adding recipe for Sanguine Scientiem
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Corn Grain
+INFO: Adding recipe for Barley Grain
+INFO: Adding recipe for Seeds
+INFO: Setting fuel for <ImmersiveEngineering:stoneDecoration:3>
+INFO: [ModTweaker2] Adding 1 Railcraft Blast Furnace (Fuel) Recipe(s) for <ImmersiveEngineering:material:6>
+INFO: [ModTweaker2] Adding 1 Railcraft Blast Furnace (Fuel) Recipe(s) for <ImmersiveEngineering:stoneDecoration:3>
+INFO: Removing 13 recipes
+INFO: Adding recipe for Minecart
+INFO: Copying contents of ore dictionary entry dustQuartz to dustNetherQuartz
+INFO: Mirroring dustNetherQuartz to dustQuartz
+INFO: Mirroring stickWood to stickCrop
+INFO: Removing Bamboo from ore dictionary entry stickCrop
+INFO: Removing 1 recipes
+INFO: Adding recipe for Crop Sticks
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:toughRod:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:toolRod:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:pickaxeHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:shovelHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:hatchetHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:swordBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:wideGuard:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:handGuard:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:crossbar:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:binding:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:frypanHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:signHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:knifeBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:chiselHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:toughBinding:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:heavyPlate:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:broadAxeHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:scytheBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:excavatorHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:largeSwordBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:hammerHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:fullGuard:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:ShurikenPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowLimbPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowBodyPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:BowLimbPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:arrowhead:314>
+INFO: Adding refinery recipe for minetweaker.mc1710.liquid.MCLiquidStack@aa21883
+INFO: Adding refinery recipe for minetweaker.mc1710.liquid.MCLiquidStack@46421f31
+INFO: Removing 1 recipes
+INFO: Adding recipe for Button
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Railcraft:part.plate:2>
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Iron Nugget
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Iron Nugget
+INFO: [ModTweaker2] Adding 1 Forestry Centrifuge Recipe(s) for <gendustry:HoneyComb:13339>
+INFO: Initialized 'InfinityPackWideChanges.zs'
